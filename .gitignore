@@ -1,0 +1,27 @@
+# Archivos privados y personales
+CLAUDE.local.md
+*.local.md
+*.private.md
+*.secret.*
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+*.swp
+*.swo
+
+# Dependencias Node.js
+node_modules/
+
+# Temporales
+*.tmp
+*.bak
